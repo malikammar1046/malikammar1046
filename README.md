@@ -1,18 +1,211 @@
-# 💫 About Me:
-🔭 I'm currently working on: AI-powered applications, machine learning projects, and full-stack web development.<br>👯 I'm looking to collaborate on: Open-source AI/ML projects, Python applications, and innovative software solutions.<br>🤝 I'm looking for help with: MLOps, scalable AI systems, and deploying production-ready machine learning applications.<br>🌱 I'm currently learning: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI agents, and modern AI frameworks.<br>💬 Ask me about: Python, Django, Machine Learning, Generative AI, Git/GitHub, and software development.<br>⚡ Fun fact: I enjoy turning ideas into real-world AI applications and am always exploring new technologies to build something useful.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Ammar%20Arshad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ammar-arshad2/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malikammar1046@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=malikammar1046&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=malikammar1046&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=malikammar1046&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/malikammar1046">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+intelligent+software;Architecting+RAG+%26+LLM+systems;Full+Stack+%2B+AI+Engineering;Always+shipping%2C+always+learning&font=Fira+Code&center=true&width=560&height=45&duration=3000&pause=1000&color=A9A9A9&vCenter=true&size=20&weight=500" alt="Typing SVG" />
+</a>
 
----
-[![](https://komarev.com/ghpvc/?username=malikammar1046&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/><br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://www.linkedin.com/in/ammar-arshad2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:malikammar1046@gmail.com"><img src="https://img.shields.io/badge/Email-171515?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/malikammar1046"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+## About Me
+
+I'm a final-year Software Engineering student who builds intelligent, production-minded software — from RAG pipelines and LLM-powered agents to full-stack web platforms. I care about clean architecture, measurable outcomes, and shipping things that actually work outside a notebook.
+
+**Core interests**
+- Artificial Intelligence & Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & Automation
+- Full-Stack & Backend Engineering
+
+| | |
+|---|---|
+| 🎓 **Graduation** | February 2027 |
+| 📊 **CGPA** | 3.96 / 4.00 |
+| 🌍 **Based in** | Lahore, Pakistan |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Currently
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**Building**
+AI agent workflows and production-grade RAG systems
+
+</td>
+<td width="33%" valign="top">
+
+**Learning**
+LangGraph · MCP · Docker · n8n · Advanced React
+
+</td>
+<td width="33%" valign="top">
+
+**Ask me about**
+RAG architecture, LangChain, Django backends, ML pipelines
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+
+<br/><br/>
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+
+<br/><br/>
+
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+
+<br/><br/>
+
+**Artificial Intelligence**
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/FAISS-4285F4?style=flat-square&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+<br/><br/>
+
+**Tools**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+
+</div>
+
+<br/>
+
+## Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Medical RAG Chatbot
+AI chatbot that answers medical questions using Retrieval-Augmented Generation over a curated knowledge base.
+
+`LangChain` `FAISS` `Hugging Face` `LLMs`
+
+</td>
+<td width="50%" valign="top">
+
+### 🗂️ Employee Management System
+Full-featured employee management platform with authentication and CRUD workflows.
+
+`Django` `Bootstrap` `Auth` `CRUD`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📧 Spam Email Detection
+ML system classifying spam vs. legitimate email using NLP feature extraction and multiple algorithms.
+
+`TF-IDF` `Scikit-learn` `NLP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🖼️ Image Processing Web App
+Web application for image enhancement and processing tasks.
+
+`Image Processing` `Web App`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=malikammar1046&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9A9A9&icon_color=8b8b8b&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikammar1046&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9A9A9&text_color=c9d1d9" width="42%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=malikammar1046&theme=tokyonight&hide_border=true&background=0d1117&ring=A9A9A9&fire=A9A9A9&currStreakLabel=A9A9A9" width="60%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=malikammar1046&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A9A9A9&line=8b8b8b&point=ffffff" width="90%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## Let's Connect
+
+If you're working on AI systems, agentic workflows, or full-stack products — I'd love to talk.
+
+<a href="https://www.linkedin.com/in/ammar-arshad2/"><img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:malikammar1046@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-171515?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<i>"Good code is its own best documentation — but great products come from understanding the problem first."</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
+
+</div>
