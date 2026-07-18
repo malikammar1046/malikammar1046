@@ -155,11 +155,6 @@ Web application for image enhancement and processing tasks.
 
 <div align="center">
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=malikammar1046&theme=radical&hide_border=true&background=0d1117" width="60%" />
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=malikammar1046&theme=react-dark&hide_border=true&bg_color=0d1117" width="90%" />
 
